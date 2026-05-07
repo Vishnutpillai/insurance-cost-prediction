@@ -86,10 +86,28 @@ jupyter notebook
 -   Model deployment (Flask / Streamlit)
 
 ------------------------------------------------------------------------
+ ## 🌐 Live Demo
+[Click Here to Use App]( https://insurance-cost-prediction-2026.streamlit.app/)
+
+------------------------------------------------------------------------
+## ⚙️ How to Run Locally
+`bash
+git clone https://github.com/Vishnutpillai/telecom-churn-project
+cd telecom-churn-project
+pip install -r requirements.txt
+streamlit run app.py
+
+------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
 Vishnu T Pillai
+
+------------------------------------------------------------------------
+## 📬 Contact
+
+- GitHub: https://github.com/Vishnutpillai  
+- LinkedIn: https://www.linkedin.com/in/vishnu-t-pillai  
 
 ------------------------------------------------------------------------
 
